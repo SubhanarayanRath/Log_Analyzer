@@ -76,10 +76,10 @@ Analyzes failed login attempts within a configurable time window. If multiple 40
 ## Usage 
 
 To run the Log Analyzer:
-   * python main.py --file sample_logs.txt
+   * python main.py --file sample.log
 
 With custom threshold and time Window:
-   * python main.py --file sample_logs.txt --threshold 5 --window 60
+   * python main.py --file sample.log --threshold 5 --window 60
    
 * Parameters explaination:- 
 
